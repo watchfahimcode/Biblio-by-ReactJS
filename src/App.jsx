@@ -8,7 +8,6 @@ import BookEntry from './pages/book-entry'
 import BookList from './pages/book-list'
 import { Route, Routes } from 'react-router-dom'
 
-
 function App() {
   return (
     <>
