@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: #213555;
-  background-color: #D8C4B6;
+  background-color: #ffffff;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -69,6 +69,18 @@ body {
 
 .nav li:hover{
   background-color: #4F709C;
+}
+
+.p-4{
+  padding: 5.5rem !important;
+}
+
+.container {
+  text-align: left;
+}
+
+.btn{
+  margin-top: 20px;
 }
 
 
