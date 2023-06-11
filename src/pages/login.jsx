@@ -20,7 +20,7 @@ export default function Home() {
   };
 
   return (
-    <Container className="d-flex justify-content-center align-items-center vh-100">
+    <Container className="d-flex justify-content-center align-items-center vh-90">
       <div className="login-form shadow p-4">
       <h1>Login</h1>
         <Form>
